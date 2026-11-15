@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Family SMS Forwarder</string>
+    <string name="notification_channel_forwarding_name">SMS Forwarding Status</string>
+    <string name="notification_channel_forwarding_desc">Alerts for forwarded SMS errors and background processing</string>
+    <string name="notification_channel_worker_name">Background SMS Processing</string>
+    <string name="notification_channel_worker_desc">Temporary system notification while dispatching forwarded SMS</string>
+</resources>

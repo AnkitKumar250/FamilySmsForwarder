@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Edge-to-edge is configured via enableEdgeToEdge() in MainActivity for Android 14, 15, and 16 -->
+    <style name="Theme.FamilySmsForwarder" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
